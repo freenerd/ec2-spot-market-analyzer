@@ -1,5 +1,5 @@
 {
-  "name": "spot-market-analyzer",
+  "name": "ec2-spot-market-analyzer",
   "version": "0.0.0",
   "dependencies": {
     "aws-sdk": "^2.1.23",
