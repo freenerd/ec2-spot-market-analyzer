@@ -1,0 +1,9 @@
+{
+  "name": "spot-market-analyzer",
+  "version": "0.0.0",
+  "dependencies": {
+    "aws-sdk": "^2.1.23",
+    "d3-queue": "2.0.3",
+    "yargs": "4.6.0"
+  }
+}
